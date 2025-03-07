@@ -93,5 +93,6 @@ for listing in all_listings:
         print("No application button, skipped.")
         continue
 
+
 time.sleep(5)
 driver.quit()
